@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Pipeline de Dados de Vendas com Azure Databricks e Arquitetura Medallion
 
 Este repositório contém o código para uma pipeline de Engenharia de Dados que processa dados de vendas (clientes, produtos, pedidos) utilizando Azure Databricks. A arquitetura segue o padrão **Medallion (Bronze, Silver, Gold)** para garantir qualidade, governança e performance.
@@ -54,3 +55,6 @@ Este projeto foi desenhado para ser executado como um **Job no Databricks**.
 ---
 ```
 
+=======
+README
+>>>>>>> 762966cd72bb380b7931b7e1e9fd47054d5cc609
